@@ -1,2 +1,2 @@
-# MamaMiaPizzeria - Hito 2 "useStage"
-Login y Registro con validaciones.
+# MamaMiaPizzeria - Hito 6 "useContext"
+carrito en home y precio en navbar
