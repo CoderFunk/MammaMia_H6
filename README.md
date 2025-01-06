@@ -1,2 +1,2 @@
-# MammaMia_H6
-context
+# MamaMiaPizzeria - Hito 2 "useStage"
+Login y Registro con validaciones.
